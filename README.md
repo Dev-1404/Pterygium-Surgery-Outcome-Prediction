@@ -9,7 +9,7 @@ The core objective of this project is to build Deep Learning models that predict
 * **Predict Clinical Outcomes:** Use a Deep Learning Regression Model to forecast 8 continuous metrics (vision, refraction, keratometry) 30 days post-surgery.
 * **Predict Complications:** Use a Deep Learning Classification Model to predict the likelihood and type of complications at both 7 and 30 days post-surgery.
 
-## 📂 Project Files Description
+## Project Files Description
 
 | File Name | Description |
 | :--- | :--- |
